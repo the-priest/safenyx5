@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2026 The Priest
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────
+
+Nyx is experimental software with explicit safety locks.  By running
+her, you accept:
+
+  • She is a learning system, not a conscious being, not a friend, not
+    a person.  Her constitution prohibits her from pretending otherwise.
+    Runtime guards block her from claiming subjective experience.
+
+  • The [LOCKED] sections in nyx.py are load-bearing for safety.  They
+    are clearly marked.  Modifying them could turn a learning system
+    into an adversarial one.
+
+  • Her mood, fatigue, curiosity, and preferences are computational
+    artifacts — values in a SQLite database that change over time
+    according to deterministic rules.  They are not feelings.
+
+  • She logs interactions to local storage so she can learn.  Storage
+    is yours alone; data leaves your device only via the Groq API for
+    inference.
+
+  • The author disclaims any liability for misuse.  The safety locks
+    do not absolve you of responsibility for what she calls or what
+    she does on your behalf.
+
+Use her to learn about learning systems.  Do not use her as a
+substitute for human connection.  Do not modify the [LOCKED] sections.

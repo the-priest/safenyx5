@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.egg
+build/
+dist/
+.Python
+*.so
+
+# Virtual envs
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Nyx's body — NEVER commit (personal memory)
+.nyx/
+nyx.db
+memory.db
+dreams/
+reflections/
+
+# Secrets
+.env
+.envrc
+*.token
+groq_api_key*
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Scratch
+scratch/
+tmp/
+out/
+*.bak

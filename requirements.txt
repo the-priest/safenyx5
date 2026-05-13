@@ -1,0 +1,5 @@
+# Nyx v0.1 — Groq-only learning agent
+# Stdlib does most of the work — sqlite3, subprocess, threading.
+
+# REQUIRED: Groq API client for inference.
+groq>=0.4.0
